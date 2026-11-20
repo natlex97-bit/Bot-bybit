@@ -1,0 +1,37 @@
+name: Bot Bybit Demo
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-bybit-demo
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Correr bot (Bybit Demo)
+        env:
+          BYBIT_API_KEY: ${{ secrets.BYBIT_API_KEY }}
+          BYBIT_API_SECRET: ${{ secrets.BYBIT_API_SECRET }}
+          DRY_RUN: ${{ vars.DRY_RUN }}
+          CAPITAL_BASE: '10000'
+        run: python trade_demo.py
+      - name: Guardar estado
+        run: |
+          git config user.name "bot-bybit-demo"
+          git config user.email "bot@github.local"
+          git add state.json ledger.csv equity.csv dashboard.html data/ || true
+          git diff --cached --quiet || git commit -m "bot: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
