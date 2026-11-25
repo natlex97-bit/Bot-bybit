@@ -2,434 +2,434 @@
   {
     "id": "bitcoin",
     "symbol": "btc",
-    "price": 60136,
+    "price": 60219,
     "rank": 1,
-    "pct24": 0.58224,
-    "pct7": -5.0169,
-    "pct30": -24.9563
+    "pct24": 0.68423,
+    "pct7": -3.8349,
+    "pct30": -24.5611
   },
   {
     "id": "ethereum",
     "symbol": "eth",
-    "price": 1685.74,
+    "price": 1687.21,
     "rank": 2,
-    "pct24": 0.41653,
-    "pct7": -4.7613,
-    "pct30": -27.1211
+    "pct24": 0.50153,
+    "pct7": -3.7365,
+    "pct30": -27.0539
   },
   {
     "id": "tether",
     "symbol": "usdt",
-    "price": 0.999093,
+    "price": 0.999106,
     "rank": 3,
-    "pct24": 0.02955,
-    "pct7": -0.0243,
-    "pct30": 0.0156
+    "pct24": 0.02143,
+    "pct7": -0.0112,
+    "pct30": 0.0365
   },
   {
     "id": "binancecoin",
     "symbol": "bnb",
-    "price": 553.07,
+    "price": 553.54,
     "rank": 4,
-    "pct24": 0.72275,
-    "pct7": -5.3524,
-    "pct30": -25.4922
+    "pct24": 0.86921,
+    "pct7": -4.1904,
+    "pct30": -25.2994
   },
   {
     "id": "usd-coin",
     "symbol": "usdc",
-    "price": 0.999524,
+    "price": 0.999556,
     "rank": 5,
-    "pct24": 0.00582,
-    "pct7": -0.0128,
-    "pct30": 0.014
+    "pct24": 0.00372,
+    "pct7": -0.0077,
+    "pct30": 0.0232
   },
   {
     "id": "ripple",
     "symbol": "xrp",
-    "price": 0.938346,
+    "price": 0.942183,
     "rank": 6,
-    "pct24": 1.79961,
-    "pct7": -4.0531,
-    "pct30": -27.2822
+    "pct24": 2.34416,
+    "pct7": -2.6135,
+    "pct30": -27.1801
   },
   {
     "id": "solana",
     "symbol": "sol",
-    "price": 70.42,
+    "price": 70.74,
     "rank": 7,
-    "pct24": 1.44764,
-    "pct7": -4.6737,
-    "pct30": -29.8501
+    "pct24": 2.07439,
+    "pct7": -3.3899,
+    "pct30": -29.665
   },
   {
     "id": "tron",
     "symbol": "trx",
-    "price": 0.303162,
+    "price": 0.303345,
     "rank": 8,
-    "pct24": -1.55231,
-    "pct7": -1.6492,
-    "pct30": -8.0587
+    "pct24": -1.54781,
+    "pct7": -1.8412,
+    "pct30": -8.1209
   },
   {
     "id": "figure-heloc",
     "symbol": "figr_heloc",
-    "price": 1.041,
+    "price": 1.04,
     "rank": 9,
-    "pct24": -1.50662,
-    "pct7": 3.0711,
-    "pct30": -0.1915
+    "pct24": -1.3717,
+    "pct7": 3.3889,
+    "pct30": -0.0741
   },
   {
     "id": "hyperliquid",
     "symbol": "hype",
-    "price": 61.57,
+    "price": 61.81,
     "rank": 10,
-    "pct24": 2.70736,
-    "pct7": -9.3848,
-    "pct30": -22.4311
+    "pct24": 3.12222,
+    "pct7": -7.3194,
+    "pct30": -21.0587
   },
   {
     "id": "zcash",
     "symbol": "zec",
-    "price": 757.71,
+    "price": 764.46,
     "rank": 11,
-    "pct24": 3.72604,
-    "pct7": -18.1703,
-    "pct30": -38.5681
+    "pct24": 4.67339,
+    "pct7": -16.2095,
+    "pct30": -37.7896
   },
   {
     "id": "monero",
     "symbol": "xmr",
-    "price": 521.8,
+    "price": 523.82,
     "rank": 12,
-    "pct24": 4.44156,
-    "pct7": 3.453,
-    "pct30": -12.6347
+    "pct24": 4.08286,
+    "pct7": 5.135,
+    "pct30": -12.4331
   },
   {
     "id": "dogecoin",
     "symbol": "doge",
-    "price": 0.055785,
+    "price": 0.055961,
     "rank": 13,
-    "pct24": 0.73116,
-    "pct7": -5.5473,
-    "pct30": -27.4903
+    "pct24": 1.23563,
+    "pct7": -4.564,
+    "pct30": -27.4758
   },
   {
     "id": "leo-token",
     "symbol": "leo",
-    "price": 8.98,
+    "price": 8.99,
     "rank": 14,
-    "pct24": -0.93665,
-    "pct7": -3.5527,
-    "pct30": -0.1359
+    "pct24": -0.7262,
+    "pct7": -3.5497,
+    "pct30": -0.1608
   },
   {
     "id": "chainlink",
     "symbol": "link",
-    "price": 9.07,
+    "price": 9.06,
     "rank": 15,
-    "pct24": 2.40614,
-    "pct7": -0.201,
-    "pct30": -19.9533
+    "pct24": 2.77146,
+    "pct7": 0.9704,
+    "pct30": -19.8329
   },
   {
     "id": "whitebit",
     "symbol": "wbt",
-    "price": 58.38,
+    "price": 58.44,
     "rank": 16,
-    "pct24": 2.77763,
-    "pct7": -6.7482,
-    "pct30": -25.7784
+    "pct24": 2.79623,
+    "pct7": -3.5575,
+    "pct30": -23.8316
   },
   {
     "id": "usds",
     "symbol": "usds",
     "price": 1.0,
     "rank": 17,
-    "pct24": 0.0194,
-    "pct7": 0.0032,
-    "pct30": 0.0067
+    "pct24": -0.01867,
+    "pct7": 0.0156,
+    "pct30": 0.0158
   },
   {
     "id": "cardano",
     "symbol": "ada",
-    "price": 0.146743,
+    "price": 0.146703,
     "rank": 18,
-    "pct24": 1.61902,
-    "pct7": -3.8887,
-    "pct30": -28.4982
+    "pct24": 1.83457,
+    "pct7": -2.7894,
+    "pct30": -28.1929
   },
   {
     "id": "ethena-usde",
     "symbol": "usde",
     "price": 1.0,
     "rank": 19,
-    "pct24": 0.05095,
-    "pct7": 0.0637,
-    "pct30": 0.0815
+    "pct24": 0.04345,
+    "pct7": 0.0843,
+    "pct30": 0.112
   },
   {
     "id": "stellar",
     "symbol": "xlm",
-    "price": 0.128113,
+    "price": 0.128059,
     "rank": 20,
-    "pct24": 2.93456,
-    "pct7": -8.2696,
-    "pct30": -24.067
+    "pct24": 3.08346,
+    "pct7": -6.7009,
+    "pct30": -23.5231
   },
   {
     "id": "dai",
     "symbol": "dai",
-    "price": 1.0,
+    "price": 0.999937,
     "rank": 21,
-    "pct24": -0.0043,
-    "pct7": 0.0069,
-    "pct30": 0.0073
+    "pct24": 0.02142,
+    "pct7": 0.0085,
+    "pct30": -0.0036
   },
   {
     "id": "bitcoin-cash",
     "symbol": "bch",
-    "price": 203.93,
+    "price": 203.87,
     "rank": 22,
-    "pct24": 3.96806,
-    "pct7": -2.0249,
-    "pct30": -26.3624
+    "pct24": 4.11109,
+    "pct7": -0.967,
+    "pct30": -26.5664
   },
   {
     "id": "near",
     "symbol": "near",
-    "price": 3.0,
+    "price": 3.04,
     "rank": 23,
-    "pct24": 4.37173,
-    "pct7": -10.2063,
-    "pct30": -34.2563
+    "pct24": 6.44145,
+    "pct7": -5.9467,
+    "pct30": -32.0376
   },
   {
     "id": "litecoin",
     "symbol": "ltc",
-    "price": 42.36,
+    "price": 42.52,
     "rank": 24,
-    "pct24": 3.58115,
-    "pct7": -3.4816,
-    "pct30": -24.5818
+    "pct24": 4.45674,
+    "pct7": -2.7233,
+    "pct30": -24.5616
   },
   {
     "id": "canton-network",
     "symbol": "cc",
-    "price": 0.077668,
+    "price": 0.077357,
     "rank": 25,
-    "pct24": 2.24487,
-    "pct7": -5.9424,
-    "pct30": -22.2763
+    "pct24": 2.80349,
+    "pct7": -4.4321,
+    "pct30": -21.4826
   },
   {
     "id": "avalanche-2",
     "symbol": "avax",
     "price": 6.61,
     "rank": 26,
-    "pct24": 0.51066,
-    "pct7": -5.8089,
-    "pct30": -25.8862
+    "pct24": 0.638,
+    "pct7": -4.6093,
+    "pct30": -25.6004
   },
   {
     "id": "tether-gold",
     "symbol": "xaut",
-    "price": 3570.75,
+    "price": 3571.98,
     "rank": 27,
-    "pct24": 0.6936,
-    "pct7": -5.0415,
-    "pct30": -11.6585
+    "pct24": 0.79639,
+    "pct7": -3.8928,
+    "pct30": -10.9553
   },
   {
     "id": "uniswap",
     "symbol": "uni",
-    "price": 4.73,
+    "price": 4.74,
     "rank": 28,
-    "pct24": 0.01469,
-    "pct7": -9.3945,
-    "pct30": -32.7043
+    "pct24": 0.99331,
+    "pct7": -7.7927,
+    "pct30": -32.6648
   },
   {
     "id": "usd1-wlfi",
     "symbol": "usd1",
     "price": 1.0,
     "rank": 29,
-    "pct24": 0.01518,
-    "pct7": 0.097,
-    "pct30": 0.1239
+    "pct24": 0.01298,
+    "pct7": 0.1114,
+    "pct30": 0.1391
   },
   {
     "id": "ripple-usd",
     "symbol": "rlusd",
-    "price": 0.999936,
+    "price": 0.999986,
     "rank": 30,
-    "pct24": 0.00779,
-    "pct7": 0.0015,
-    "pct30": -0.0166
+    "pct24": 0.00587,
+    "pct7": -0.0065,
+    "pct30": -0.0239
   },
   {
     "id": "sui",
     "symbol": "sui",
-    "price": 0.662243,
+    "price": 0.663622,
     "rank": 31,
-    "pct24": 2.53399,
-    "pct7": -8.18,
-    "pct30": -26.9969
+    "pct24": 3.02479,
+    "pct7": -7.2173,
+    "pct30": -26.916
   },
   {
     "id": "the-open-network",
     "symbol": "gram",
-    "price": 0.950835,
+    "price": 0.951842,
     "rank": 32,
-    "pct24": 0.1091,
-    "pct7": -7.7697,
-    "pct30": -22.2608
+    "pct24": 1.13268,
+    "pct7": -6.2801,
+    "pct30": -21.6392
   },
   {
     "id": "global-dollar",
     "symbol": "usdg",
     "price": 1.0,
     "rank": 33,
-    "pct24": 0.01051,
-    "pct7": 0.011,
-    "pct30": 0.0078
+    "pct24": 0.01608,
+    "pct7": 0.0106,
+    "pct30": 0.0282
   },
   {
     "id": "ondo-us-dollar-yield",
     "symbol": "usdy",
     "price": 1.15,
     "rank": 34,
-    "pct24": 0.04843,
-    "pct7": 0.1167,
-    "pct30": 0.3029
+    "pct24": -0.03679,
+    "pct7": 0.1243,
+    "pct30": 0.524
   },
   {
     "id": "paypal-usd",
     "symbol": "pyusd",
-    "price": 0.999817,
+    "price": 0.999882,
     "rank": 35,
-    "pct24": 0.0161,
-    "pct7": -0.0134,
-    "pct30": 0.0013
+    "pct24": -0.00426,
+    "pct7": -0.012,
+    "pct30": 0.0094
   },
   {
     "id": "hedera-hashgraph",
     "symbol": "hbar",
-    "price": 0.051772,
+    "price": 0.052073,
     "rank": 36,
-    "pct24": 3.49567,
-    "pct7": -7.7139,
-    "pct30": -32.339
+    "pct24": 3.95656,
+    "pct7": -6.2248,
+    "pct30": -32.2593
   },
   {
     "id": "bittensor",
     "symbol": "tao",
-    "price": 182.11,
+    "price": 182.5,
     "rank": 37,
-    "pct24": 0.89062,
-    "pct7": -5.704,
-    "pct30": -27.4168
-  },
-  {
-    "id": "quant-network",
-    "symbol": "qnt",
-    "price": 145.72,
-    "rank": 38,
-    "pct24": -0.69535,
-    "pct7": -3.266,
-    "pct30": -27.6475
+    "pct24": 1.52604,
+    "pct7": -4.1332,
+    "pct30": -26.9871
   },
   {
     "id": "hashnote-usyc",
     "symbol": "usyc",
     "price": 1.15,
-    "rank": 39,
+    "rank": 38,
     "pct24": 0.02413,
     "pct7": 0.086,
     "pct30": 0.3027
+  },
+  {
+    "id": "shiba-inu",
+    "symbol": "shib",
+    "price": 3.59e-06,
+    "rank": 39,
+    "pct24": 1.44344,
+    "pct7": -5.1552,
+    "pct30": -26.4169
   },
   {
     "id": "spiko-amundi-overnight-swap-fund-eur",
     "symbol": "eursafo",
     "price": 1.12,
     "rank": 40,
-    "pct24": 0.10394,
-    "pct7": 0.101,
-    "pct30": -1.5866
+    "pct24": 0.09942,
+    "pct7": 0.1636,
+    "pct30": -1.6073
   },
   {
-    "id": "shiba-inu",
-    "symbol": "shib",
-    "price": 3.57e-06,
+    "id": "quant-network",
+    "symbol": "qnt",
+    "price": 144.71,
     "rank": 41,
-    "pct24": 0.65225,
-    "pct7": -5.9257,
-    "pct30": -26.1907
+    "pct24": -1.18951,
+    "pct7": -3.294,
+    "pct30": -28.2883
   },
   {
     "id": "crypto-com-chain",
     "symbol": "cro",
-    "price": 0.03999539,
+    "price": 0.0400374,
     "rank": 42,
-    "pct24": 1.97415,
-    "pct7": -6.184,
-    "pct30": -24.5979
+    "pct24": 2.30426,
+    "pct7": -5.8876,
+    "pct30": -24.8187
   },
   {
     "id": "rain",
     "symbol": "rain",
-    "price": 0.00274652,
+    "price": 0.00274132,
     "rank": 43,
-    "pct24": -3.52331,
-    "pct7": -39.5733,
-    "pct30": -64.8741
+    "pct24": -4.19191,
+    "pct7": -39.1801,
+    "pct30": -64.2805
   },
   {
     "id": "memecore",
     "symbol": "m",
-    "price": 0.790325,
+    "price": 0.803529,
     "rank": 44,
-    "pct24": 3.2011,
-    "pct7": -11.6708,
-    "pct30": -17.6152
+    "pct24": 3.95158,
+    "pct7": -10.5103,
+    "pct30": -17.0844
   },
   {
     "id": "okb",
     "symbol": "okb",
-    "price": 81.73,
+    "price": 82.09,
     "rank": 45,
-    "pct24": 0.36929,
-    "pct7": -5.8945,
-    "pct30": -25.2241
+    "pct24": 0.78725,
+    "pct7": -4.9039,
+    "pct30": -25.0491
   },
   {
     "id": "falcon-finance",
     "symbol": "usdf",
-    "price": 0.994031,
+    "price": 0.99409,
     "rank": 46,
-    "pct24": -0.05177,
-    "pct7": -0.2059,
-    "pct30": -0.096
-  },
-  {
-    "id": "united-stables",
-    "symbol": "u",
-    "price": 0.999053,
-    "rank": 47,
-    "pct24": -0.08181,
-    "pct7": 0.0046,
-    "pct30": 0.0117
+    "pct24": -0.05627,
+    "pct7": -0.1899,
+    "pct30": -0.0746
   },
   {
     "id": "pax-gold",
     "symbol": "paxg",
-    "price": 3570.48,
+    "price": 3572.25,
+    "rank": 47,
+    "pct24": 0.77217,
+    "pct7": -3.8913,
+    "pct30": -11.1978
+  },
+  {
+    "id": "united-stables",
+    "symbol": "u",
+    "price": 0.998975,
     "rank": 48,
-    "pct24": 0.68096,
-    "pct7": -5.0243,
-    "pct30": -11.8786
+    "pct24": -0.06542,
+    "pct7": 0.0017,
+    "pct30": 0.0233
   },
   {
     "id": "blackrock-usd-institutional-digital-liquidity-fund",
@@ -443,326 +443,326 @@
   {
     "id": "usdd",
     "symbol": "usdd",
-    "price": 0.998854,
+    "price": 0.998586,
     "rank": 50,
-    "pct24": 0.08791,
-    "pct7": 0.0861,
-    "pct30": 0.0342
+    "pct24": 0.02126,
+    "pct7": 0.1193,
+    "pct30": 0.0733
   },
   {
     "id": "aave",
     "symbol": "aave",
-    "price": 95.44,
+    "price": 95.49,
     "rank": 51,
-    "pct24": 2.0272,
-    "pct7": -11.372,
-    "pct30": -29.2275
+    "pct24": 2.02547,
+    "pct7": -11.0977,
+    "pct30": -29.1638
   },
   {
     "id": "pepe",
     "symbol": "pepe",
     "price": 3.48e-06,
     "rank": 52,
-    "pct24": 0.31374,
-    "pct7": -7.2163,
-    "pct30": -19.2259
-  },
-  {
-    "id": "ondo-finance",
-    "symbol": "ondo",
-    "price": 0.281618,
-    "rank": 53,
-    "pct24": 0.99823,
-    "pct7": -6.1723,
-    "pct30": -31.8139
-  },
-  {
-    "id": "bitway",
-    "symbol": "btw",
-    "price": 0.898463,
-    "rank": 55,
-    "pct24": 17.82837,
-    "pct7": 74.3975,
-    "pct30": -23.1723
-  },
-  {
-    "id": "world-liberty-financial",
-    "symbol": "wlfi",
-    "price": 0.0426448,
-    "rank": 54,
-    "pct24": 6.00446,
-    "pct7": -5.8603,
-    "pct30": -18.7131
-  },
-  {
-    "id": "ethena",
-    "symbol": "ena",
-    "price": 0.099767,
-    "rank": 56,
-    "pct24": 1.84869,
-    "pct7": -10.9716,
-    "pct30": -52.094
+    "pct24": 0.08662,
+    "pct7": -6.2512,
+    "pct30": -19.0294
   },
   {
     "id": "venice-token",
     "symbol": "vvv",
-    "price": 27.37,
+    "price": 28.85,
+    "rank": 53,
+    "pct24": 18.95053,
+    "pct7": 33.1383,
+    "pct30": 10.3394
+  },
+  {
+    "id": "ondo-finance",
+    "symbol": "ondo",
+    "price": 0.282071,
+    "rank": 54,
+    "pct24": 1.89827,
+    "pct7": -5.0363,
+    "pct30": -31.6953
+  },
+  {
+    "id": "ethena",
+    "symbol": "ena",
+    "price": 0.100596,
+    "rank": 55,
+    "pct24": 3.0735,
+    "pct7": -9.2755,
+    "pct30": -51.8759
+  },
+  {
+    "id": "bitway",
+    "symbol": "btw",
+    "price": 0.899616,
+    "rank": 56,
+    "pct24": 19.14605,
+    "pct7": 84.1186,
+    "pct30": -20.309
+  },
+  {
+    "id": "world-liberty-financial",
+    "symbol": "wlfi",
+    "price": 0.04263241,
     "rank": 57,
-    "pct24": 11.45268,
-    "pct7": 33.0035,
-    "pct30": 11.4998
+    "pct24": 6.33107,
+    "pct7": -6.4082,
+    "pct30": -19.7867
   },
   {
     "id": "bfusd",
     "symbol": "bfusd",
-    "price": 0.998436,
+    "price": 0.998447,
     "rank": 58,
-    "pct24": 0.00863,
-    "pct7": -0.0213,
-    "pct30": -0.0306
+    "pct24": 0.00018,
+    "pct7": 0.0019,
+    "pct30": -0.0111
   },
   {
     "id": "htx-dao",
     "symbol": "htx",
     "price": 1.45e-06,
     "rank": 59,
-    "pct24": -0.56126,
-    "pct7": -2.5216,
-    "pct30": -10.6921
+    "pct24": -0.56566,
+    "pct7": -2.8689,
+    "pct30": -10.9382
   },
   {
     "id": "aster-2",
     "symbol": "aster",
-    "price": 0.490184,
+    "price": 0.490562,
     "rank": 60,
-    "pct24": -0.26919,
-    "pct7": -9.7108,
-    "pct30": -30.7976
+    "pct24": -0.20942,
+    "pct7": -9.4889,
+    "pct30": -30.8596
   },
   {
     "id": "mantle",
     "symbol": "mnt",
-    "price": 0.367752,
+    "price": 0.370028,
     "rank": 61,
-    "pct24": 2.14585,
-    "pct7": -5.2879,
-    "pct30": -28.8919
+    "pct24": 3.10623,
+    "pct7": -3.2415,
+    "pct30": -28.2836
   },
   {
     "id": "just",
     "symbol": "jst",
-    "price": 0.147172,
+    "price": 0.147585,
     "rank": 62,
-    "pct24": 0.44158,
-    "pct7": 1.6091,
-    "pct30": 6.5327
+    "pct24": 0.6431,
+    "pct7": 1.4176,
+    "pct30": 5.8932
+  },
+  {
+    "id": "polkadot",
+    "symbol": "dot",
+    "price": 0.662558,
+    "rank": 63,
+    "pct24": 1.73846,
+    "pct7": -6.8691,
+    "pct30": -34.1453
   },
   {
     "id": "internet-computer",
     "symbol": "icp",
     "price": 2.03,
-    "rank": 63,
-    "pct24": 0.84573,
-    "pct7": -8.6709,
-    "pct30": -22.0309
-  },
-  {
-    "id": "polkadot",
-    "symbol": "dot",
-    "price": 0.661125,
     "rank": 64,
-    "pct24": 0.87454,
-    "pct7": -7.5927,
-    "pct30": -33.8629
+    "pct24": 1.61496,
+    "pct7": -6.9893,
+    "pct30": -21.5134
   },
   {
     "id": "morpho",
     "symbol": "morpho",
     "price": 1.58,
     "rank": 65,
-    "pct24": 0.71443,
-    "pct7": -7.3329,
-    "pct30": -24.724
+    "pct24": 1.1666,
+    "pct7": -5.5682,
+    "pct30": -25.3448
   },
   {
     "id": "bitget-token",
     "symbol": "bgb",
     "price": 1.53,
     "rank": 66,
-    "pct24": -0.08702,
-    "pct7": -3.3201,
-    "pct30": -18.0951
-  },
-  {
-    "id": "pieverse",
-    "symbol": "pieverse",
-    "price": 3.69,
-    "rank": 67,
-    "pct24": 25.09697,
-    "pct7": 11.8194,
-    "pct30": 258.0283
+    "pct24": -0.09558,
+    "pct7": -2.6621,
+    "pct30": -17.9752
   },
   {
     "id": "open-usd",
     "symbol": "ousd",
     "price": 1.001,
+    "rank": 67,
+    "pct24": -0.03098,
+    "pct7": 0.1288,
+    "pct30": -0.0419
+  },
+  {
+    "id": "pieverse",
+    "symbol": "pieverse",
+    "price": 3.64,
     "rank": 68,
-    "pct24": 0.06694,
-    "pct7": -0.1261,
-    "pct30": -0.2677
+    "pct24": 20.1627,
+    "pct7": 9.2271,
+    "pct30": 249.9456
   },
   {
     "id": "sky",
     "symbol": "sky",
-    "price": 0.04097164,
+    "price": 0.04125265,
     "rank": 69,
-    "pct24": 0.72459,
-    "pct7": -21.0434,
-    "pct30": -40.052
+    "pct24": 1.31364,
+    "pct7": -19.3929,
+    "pct30": -40.0994
   },
   {
     "id": "ethereum-classic",
     "symbol": "etc",
-    "price": 5.85,
+    "price": 5.86,
     "rank": 70,
-    "pct24": 0.77314,
-    "pct7": -1.6244,
-    "pct30": -22.5431
+    "pct24": 1.64105,
+    "pct7": -0.2853,
+    "pct30": -22.3287
   },
   {
     "id": "usdgo",
     "symbol": "usdgo",
     "price": 1.0,
     "rank": 71,
-    "pct24": 0.01411,
-    "pct7": 0.0249,
-    "pct30": 0.0165
+    "pct24": -0.00453,
+    "pct7": 0.019,
+    "pct30": 0.0105
   },
   {
     "id": "worldcoin-wld",
     "symbol": "wld",
-    "price": 0.24126,
+    "price": 0.240939,
     "rank": 72,
-    "pct24": 2.37664,
-    "pct7": -8.8663,
-    "pct30": -45.1567
+    "pct24": 2.85367,
+    "pct7": -7.1095,
+    "pct30": -45.0616
   },
   {
     "id": "pump-fun",
     "symbol": "pump",
-    "price": 0.00252142,
+    "price": 0.00253784,
     "rank": 73,
-    "pct24": 4.17088,
-    "pct7": -2.8941,
-    "pct30": -40.3209
+    "pct24": 5.3005,
+    "pct7": -0.0583,
+    "pct30": -39.701
   },
   {
     "id": "kucoin-shares",
     "symbol": "kcs",
-    "price": 5.93,
+    "price": 5.96,
     "rank": 74,
-    "pct24": 0.52201,
-    "pct7": -4.4939,
-    "pct30": -19.601
-  },
-  {
-    "id": "midnight-3",
-    "symbol": "night",
-    "price": 0.04911781,
-    "rank": 75,
-    "pct24": 0.59248,
-    "pct7": 7.6034,
-    "pct30": 19.9863
-  },
-  {
-    "id": "polygon-ecosystem-token",
-    "symbol": "pol",
-    "price": 0.076321,
-    "rank": 76,
-    "pct24": 0.27965,
-    "pct7": -5.7001,
-    "pct30": -15.8275
+    "pct24": 0.71495,
+    "pct7": -3.4608,
+    "pct30": -19.1381
   },
   {
     "id": "pearl-2",
     "symbol": "pearl",
-    "price": 2.07,
+    "price": 2.08,
     "rank": 77,
-    "pct24": 7.49978,
-    "pct7": -4.0947,
-    "pct30": 18.128
+    "pct24": 8.30904,
+    "pct7": -2.6075,
+    "pct30": 14.6739
+  },
+  {
+    "id": "midnight-3",
+    "symbol": "night",
+    "price": 0.04883358,
+    "rank": 75,
+    "pct24": 0.8405,
+    "pct7": 10.4487,
+    "pct30": 22.5663
+  },
+  {
+    "id": "polygon-ecosystem-token",
+    "symbol": "pol",
+    "price": 0.076123,
+    "rank": 76,
+    "pct24": 0.41972,
+    "pct7": -4.7534,
+    "pct30": -15.7402
   },
   {
     "id": "arbitrum",
     "symbol": "arb",
-    "price": 0.111361,
+    "price": 0.111535,
     "rank": 78,
-    "pct24": 0.07401,
-    "pct7": -13.1272,
-    "pct30": -33.4856
+    "pct24": 1.03538,
+    "pct7": -12.3664,
+    "pct30": -33.5455
   },
   {
     "id": "jupiter-exchange-solana",
     "symbol": "jup",
-    "price": 0.229092,
+    "price": 0.227346,
     "rank": 79,
-    "pct24": 2.88855,
-    "pct7": -10.7384,
-    "pct30": -17.9256
+    "pct24": 2.61503,
+    "pct7": -7.4868,
+    "pct30": -17.3755
   },
   {
     "id": "kaspa",
     "symbol": "kas",
-    "price": 0.0266461,
+    "price": 0.02661711,
     "rank": 80,
-    "pct24": 2.99282,
-    "pct7": -0.9414,
-    "pct30": -24.1621
-  },
-  {
-    "id": "render-token",
-    "symbol": "render",
-    "price": 1.28,
-    "rank": 82,
-    "pct24": 0.49372,
-    "pct7": -9.1188,
-    "pct30": -25.5893
+    "pct24": 3.03155,
+    "pct7": -0.5839,
+    "pct30": -24.4059
   },
   {
     "id": "algorand",
     "symbol": "algo",
-    "price": 0.07859,
+    "price": 0.079124,
     "rank": 81,
-    "pct24": -0.83201,
-    "pct7": 0.2297,
-    "pct30": -24.5399
+    "pct24": 0.33695,
+    "pct7": 1.8535,
+    "pct30": -24.3975
+  },
+  {
+    "id": "render-token",
+    "symbol": "render",
+    "price": 1.29,
+    "rank": 82,
+    "pct24": 1.74427,
+    "pct7": -7.8303,
+    "pct30": -25.3098
   },
   {
     "id": "gatechain-token",
     "symbol": "gt",
-    "price": 6.69,
+    "price": 6.78,
     "rank": 83,
-    "pct24": 2.04957,
-    "pct7": -4.8351,
-    "pct30": -30.334
+    "pct24": 3.23529,
+    "pct7": -5.5749,
+    "pct30": -30.7545
   },
   {
     "id": "gho",
     "symbol": "gho",
-    "price": 0.998316,
+    "price": 0.998312,
     "rank": 84,
-    "pct24": 0.00845,
-    "pct7": 0.023,
-    "pct30": 0.0104
+    "pct24": -0.00059,
+    "pct7": 0.0361,
+    "pct30": 0.0221
   },
   {
     "id": "cosmos",
     "symbol": "atom",
     "price": 1.24,
     "rank": 85,
-    "pct24": -1.0968,
-    "pct7": -3.3802,
-    "pct30": -23.4975
+    "pct24": -0.98114,
+    "pct7": -2.8225,
+    "pct30": -23.7329
   },
   {
     "id": "superstate-short-duration-us-government-securities-fund-ustb",
@@ -776,20 +776,20 @@
   {
     "id": "pi-network",
     "symbol": "pi",
-    "price": 0.054889,
+    "price": 0.055296,
     "rank": 87,
-    "pct24": 0.53486,
-    "pct7": -2.8646,
-    "pct30": -28.3043
+    "pct24": 1.40664,
+    "pct7": -1.8711,
+    "pct30": -27.8745
   },
   {
     "id": "nexo",
     "symbol": "nexo",
-    "price": 0.625639,
+    "price": 0.628806,
     "rank": 88,
-    "pct24": 0.30867,
-    "pct7": -4.1552,
-    "pct30": -21.819
+    "pct24": -0.55775,
+    "pct7": -3.5376,
+    "pct30": -22.0236
   },
   {
     "id": "janus-henderson-anemoy-aaa-clo-fund",
@@ -801,102 +801,102 @@
     "pct30": 0.4132
   },
   {
-    "id": "injective-protocol",
-    "symbol": "inj",
-    "price": 6.01,
-    "rank": 90,
-    "pct24": 2.92122,
-    "pct7": -14.8759,
-    "pct30": -24.5163
-  },
-  {
     "id": "lighter",
     "symbol": "lit",
-    "price": 2.39,
-    "rank": 91,
-    "pct24": 1.53591,
-    "pct7": -12.994,
-    "pct30": -22.5319
+    "price": 2.41,
+    "rank": 90,
+    "pct24": 2.79184,
+    "pct7": -12.4479,
+    "pct30": -21.3218
   },
   {
-    "id": "usual-usd",
-    "symbol": "usd0",
-    "price": 0.998466,
-    "rank": 92,
-    "pct24": 0.07152,
-    "pct7": -0.1166,
-    "pct30": 0.0448
+    "id": "injective-protocol",
+    "symbol": "inj",
+    "price": 5.99,
+    "rank": 91,
+    "pct24": 3.72372,
+    "pct7": -14.296,
+    "pct30": -24.5698
   },
   {
     "id": "beldex",
     "symbol": "bdx",
-    "price": 0.068212,
+    "price": 0.06842,
+    "rank": 92,
+    "pct24": 0.50005,
+    "pct7": -1.6796,
+    "pct30": -7.4224
+  },
+  {
+    "id": "usual-usd",
+    "symbol": "usd0",
+    "price": 0.998476,
     "rank": 93,
-    "pct24": 0.60649,
-    "pct7": -1.78,
-    "pct30": -8.8089
+    "pct24": 0.06361,
+    "pct7": -0.0512,
+    "pct30": 0.0639
   },
   {
     "id": "xdce-crowd-sale",
     "symbol": "xdc",
-    "price": 0.02580805,
+    "price": 0.02577585,
     "rank": 94,
-    "pct24": 0.28092,
-    "pct7": -14.2216,
-    "pct30": -22.7747
+    "pct24": 0.03017,
+    "pct7": -13.2275,
+    "pct30": -23.7351
   },
   {
     "id": "euro-coin",
     "symbol": "eurc",
     "price": 1.097,
     "rank": 95,
-    "pct24": 0.14961,
-    "pct7": 0.0373,
-    "pct30": -1.8079
+    "pct24": 0.10625,
+    "pct7": 0.1108,
+    "pct30": -1.7932
   },
   {
     "id": "blockstack",
     "symbol": "stx",
-    "price": 0.264948,
+    "price": 0.26378,
     "rank": 96,
-    "pct24": 1.67987,
-    "pct7": -2.8898,
-    "pct30": -13.2882
+    "pct24": 1.84029,
+    "pct7": -0.5162,
+    "pct30": -12.5331
   },
   {
     "id": "pancakeswap-token",
     "symbol": "cake",
     "price": 1.56,
     "rank": 97,
-    "pct24": 1.89429,
-    "pct7": -1.4842,
-    "pct30": -26.607
+    "pct24": 2.25791,
+    "pct7": 0.061,
+    "pct30": -26.2843
   },
   {
     "id": "true-usd",
     "symbol": "tusd",
-    "price": 0.99864,
+    "price": 0.998973,
     "rank": 98,
-    "pct24": 0.00723,
-    "pct7": -0.0004,
-    "pct30": 0.0343
+    "pct24": -0.00385,
+    "pct7": -0.0384,
+    "pct30": 0.0469
   },
   {
     "id": "filecoin",
     "symbol": "fil",
-    "price": 0.547207,
+    "price": 0.55175,
     "rank": 99,
-    "pct24": 1.04459,
-    "pct7": -5.4016,
-    "pct30": -39.4191
+    "pct24": 2.55991,
+    "pct7": -4.4748,
+    "pct30": -39.4057
   },
   {
     "id": "eutbl",
     "symbol": "eutbl",
     "price": 1.17,
     "rank": 100,
-    "pct24": 0.10398,
-    "pct7": 0.0951,
-    "pct30": -1.6182
+    "pct24": 0.09947,
+    "pct7": 0.1576,
+    "pct30": -1.6389
   }
 ]
